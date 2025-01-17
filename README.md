@@ -28,16 +28,21 @@ hydrooj restart
 
 具体地：
 
-$\textbf{\textcolor{#fe4c61}{入门}}$：$1$
+$\textbf{\textcolor{#fe4c61}{入门}}$：1
 
-$\textbf{\textcolor{#f39c11}{普及-}}$：$2$
+$\textbf{\textcolor{#f39c11}{普及-}}$：2
 
-$\textbf{\textcolor{#ffc116}{普及/提高-}}$：$3$
+$\textbf{\textcolor{#ffc116}{普及/提高-}}$：3
 
-$\textbf{\textcolor{#52c41a}{普及+/提高}}$：$4$
+$\textbf{\textcolor{#52c41a}{普及+/提高}}$：4
 
-$\textbf{\textcolor{#3498db}{提高+/省选-}}$：$5$
+$\textbf{\textcolor{#3498db}{提高+/省选-}}$：5
 
-$\textbf{\textcolor{#9d3dcf}{省选/NOI-}}$：$6$
+$\textbf{\textcolor{#9d3dcf}{省选/NOI-}}$：6
 
-$\textbf{\textcolor{#0e1d69}{NOI/NOI+/CTSC}}$：$7$
+$\textbf{\textcolor{#0e1d69}{NOI/NOI+/CTSC}}$：7
+
+## 效果
+
+![image](https://github.com/user-attachments/assets/202a577d-4612-4234-bcc0-41c2577061cd)
+
