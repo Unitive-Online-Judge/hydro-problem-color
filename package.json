@@ -1,0 +1,7 @@
+{
+    "name": "problem-color",
+    "dependencies": {
+        "@hydrooj/ui-default": "workspace:^",
+        "jquery": "^3.3.1"
+    }
+}
